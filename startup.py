@@ -1,10 +1,10 @@
 '''
 Add Login Details Here to Auti log.
 '''
-use_preset = True
+use_preset = False
 
-preset_username = "skid_out"
+preset_username = ""
 
-preset_password = "f"
+preset_password = ""
 
-preset_num_of_bots = 100
+preset_num_of_bots = 
